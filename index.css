@@ -11,3 +11,11 @@ div {
     font-family: 'Papyrus';
     line-height: 2ch;
 }
+
+ul {
+    list-style: none;
+}
+
+li {
+    /*height: 10ch;*/
+}
