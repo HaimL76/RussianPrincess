@@ -1,7 +1,13 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(175, 230, 248);
+    color: rgb(107, 11, 107);
 }
 
 div {
+    margin-top: 1ch;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Papyrus';
+    line-height: 2ch;
 }
